@@ -4,7 +4,7 @@
 用于在 [Heroku](https://www.heroku.com/) 上部署 [V2Ray](https://www.v2fly.org/)
 
 ## 部署
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Flyz7805%2Fv2ray4heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2fghwett%2Foagerwiqxjoj)
 
 ## 环境变量
 ### UUID
